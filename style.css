@@ -81,7 +81,7 @@ body * {
   transform: translateY(-50%);
 
   animation: slide-back 0.2s;
-  transition: outline 0.2s;
+  transition: outline 0.3s;
 }
 
 .light #switch button {
